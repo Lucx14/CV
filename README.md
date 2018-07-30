@@ -44,6 +44,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
+#### IMC qualification (2011)
+- UK investment profession industry qualification awarded by CFA UK
+- Covers economics, accounting, investment practice, regulation, ethics.
+
 #### The University of Manchester (1996 to 1999)
 
 - BSc Economics
