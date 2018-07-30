@@ -10,7 +10,7 @@ my learning objectives as im about to start the 3 month course at Makers academy
 
 ## Skills
 
-#### This Skill
+#### Analytical thinker/ Communication/ good working under pressure/ fast learner/ adaptable/ enthusiastic/ team player
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -26,6 +26,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
+## Projects
 
 ## Education
 
@@ -56,3 +58,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 *Operations Analyst*  
 **GlobeOp Financial Services** (08/09/2003 to 20/04/2007)   
 *Operations Analyst*  
+
+
+## Interests
+
+
