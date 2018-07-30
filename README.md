@@ -10,24 +10,26 @@ my learning objectives as im about to start the 3 month course at Makers academy
 
 ## Skills
 
-#### Analytical thinker/ Communication/ good working under pressure/ fast learner/ adaptable/ enthusiastic/ team player
-
+#### Analytical thinker
+#### Communication
+#### Good working under pressure
+#### Fast learner
+#### Adaptable
+#### Enthusiastic
+#### Team player
+To be continued! for each Skill write a small paragraph.
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
 - Experience
 - Achievements
 - Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Projects
+
+- To be filled in!
 
 ## Education
 
