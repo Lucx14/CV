@@ -4,7 +4,7 @@ Im a Hedge fund operations analyst and after over 10 years working for a number 
 
 confident in my ability to quickly learn new languages and technologies and very motivated by working in a team on projects where i can use the skills ive learned to solve problems, be creative and be an asset to a team.
 
-my learning objectives as im about to start the 3 month course at Makers academy, i hope to get exposure and confidence working with the following technologies: Ruby, Rspec, TDD, pair programming, Rails, OOP, Javascript, jasmine, MVC, node.js, Angular.js, Agile development, RESTful APIs, and maybe if i have time study some c++ on the side
+my learning objectives as im about to start the 3 month course at Makers academy, i hope to get exposure and confidence working with the following technologies: Ruby, Rspec, TDD, pair programming, Rails, OOP, Javascript, jasmine, MVC, node.js, Angular.js, Agile development, RESTful APIs, and maybe if i have time study some c++ on the side.
 
 
 
