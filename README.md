@@ -62,4 +62,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Interests
 
+- Playing the guitar and piano
+- running, yoga, martial arts
+- video games
 
