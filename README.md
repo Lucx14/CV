@@ -51,6 +51,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### The University of Manchester (1996 to 1999)
 
 - BSc Economics
+- Course included modules covering economic principles, mathematical modelling, econometric techniques, analytical reasoning, quantitative techniques.
 - 2:2
 
 
