@@ -29,7 +29,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (09/07/2018 to 29/10/2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -40,17 +40,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### The University of Manchester (1996 to 1999)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BSc Economics
+- 2:2
+
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**GAM Investments** (27/08/2013 to 20/05/2018)    
+*Operations Analyst*  
+**Thames River Capital** (23/04/2007 to 24/05/2013)   
+*Operations Analyst*  
+**GlobeOp Financial Services** (08/09/2003 to 20/04/2007)   
+*Operations Analyst*  
