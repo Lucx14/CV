@@ -4,7 +4,7 @@ I'm a Hedge fund operations analyst and after over 10 years working for a number
 
 Confident in my ability to quickly learn new languages and technologies and very motivated by working in a team on projects where i can use the skills i've learned to solve problems, be creative and be an asset to a team.
 
-My learning objectives as i'm about to start the 3 month course at Makers academy, I hope to get exposure and confidence working with the following technologies: Ruby, Rspec, TDD, pair programming, Rails, OOP, Javascript, jasmine, MVC, node.js, Angular.js, Agile development, RESTful APIs, and maybe if i have time study some c++ on the side.
+My learning objectives as i'm about to start the 3 month course at Makers academy, I hope to get exposure and confidence working with the following technologies: HTLM/CSS (including Bootstrap, Materialize, Less and Sass), Javascript, React, Angular, Vue.js, Node.js, Express, Ruby, Ruby on Rails, Rspec, pair programming, OOP, TDD, MVC, Agile development, RESTful APIs, git/github, command line, MySQL, PostgreSQL, MongoDB, webapp deployment/Heroku, and maybe if i have time study some c++ on the side.
 
 
 
@@ -42,7 +42,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- RSpec, 
 
 #### IMC qualification (2011)
 - UK investment profession industry qualification awarded by CFA UK
