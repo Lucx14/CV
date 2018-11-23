@@ -1,5 +1,7 @@
 ## Lucien Najev
 
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [LinkedIn](https://www.linkedin.com/in/lucien-najev-a012a876)
+
 I am an energetic and ambitious Full Stack Junior Developer, recently graduated from Makers Academy and looking for a role where I can consolidate and extend the skills i've learned on the course. After over 10 years working as a hedge fund analyst im looking for a fresh challenge and a career change. After some thought and having always been interested in code and technology I decided to enroll at Makers Academy, a developer bootcamp, where for the last few months I have learned fundamentals of software development by building projects in teams, in pairs and independently, using Agile processes, Test driven development and object oriented programming.
 
 I feel confident in my ability to quickly learn new languages and technologies and I am motivated by working in a supportive team with a collaborative attitude on projects where I can use the skills i've learned to solve problems, be creative and be an asset to a team. At the same time I feel I am also capable of working independently towards deadlines, organising my own time and also leverage the skills ive used over the past 10 years as a professional in investment operations such as analytical thinking, problem solving, working under pressure, good teamwork and good communication.
