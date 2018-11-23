@@ -29,7 +29,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Projects
 
-- To be filled in!
+For a complete list, see my [GitHub](https://github.com/Lucx14?tab=repositories).
+
+| Project   | Description | Technologies |
+|---        |---         |---           |
+| [Bank tech test](https://github.com/Lucx14/bank-tech-test) | A UX Research Tool for developers. Users can upload projects, generate surveys to send to testers and review response data. | Rails, RSpec/Capybara |
+|[Gilded Rose tech test](https://github.com/Lucx14/GildedRose-Refactoring-Kata)| A pomodoro timer Atom package. Users are encouraged to take breaks at regular intervals by a pomodoro timer running in the background of an Atom session. During breaks, users' keyboards are disabled. | Coffeescript, Jasmine|
+| [Chitter Challenge](https://github.com/Lucx14/chitter-challenge) | An AirBnB clone for which we taught ourselves Node in a week. | Node.js, Express, Pug, Sequelize, Mocha, Zombie |
+| [Trick or eat brains](https://github.com/Lucx14/zombie-infection) | An AirBnB clone for which we taught ourselves Node in a week. | Node.js, Express, Pug, Sequelize, Mocha, Zombie |
 
 ## Education
 
