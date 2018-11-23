@@ -1,17 +1,16 @@
 ## Lucien Najev
 
-I am an energetic and ambitious Full Stack Junior Developer, recently graduated from Makers Academy and looking for a role where I can consolidate and extend the skills ive learned. After over 10 years working as a hedge fund analyst im looking for a fresh challenge and a career change. After some thought and having always been interested in code and technology I decided to enroll at Makers Academy, a developer bootcamp, where for the last few months I have learned fundamentals of software development by building projects in teams, in pairs and independently, using.
+I am an energetic and ambitious Full Stack Junior Developer, recently graduated from Makers Academy and looking for a role where I can consolidate and extend the skills i've learned on the course. After over 10 years working as a hedge fund analyst im looking for a fresh challenge and a career change. After some thought and having always been interested in code and technology I decided to enroll at Makers Academy, a developer bootcamp, where for the last few months I have learned fundamentals of software development by building projects in teams, in pairs and independently, using Agile processes, Test driven development and object oriented programming.
 
-Confident in my ability to quickly learn new languages and technologies and very motivated by working in a team on projects where i can use the skills i've learned to solve problems, be creative and be an asset to a team. able not not only use what ive learened over the last few months but also leverage the skills ive used over the past 10 years as a professional in investment operations such as analytical thinking, problem solving, working under pressure.....
+I feel confident in my ability to quickly learn new languages and technologies and I am motivated by working in a supportive team with a collaborative attitude on projects where I can use the skills i've learned to solve problems, be creative and be an asset to a team. At the same time I feel I am also capable of working independently towards deadlines, organising my own time and also leverage the skills ive used over the past 10 years as a professional in investment operations such as analytical thinking, problem solving, working under pressure, good teamwork and good communication.
 
-have had exposure to following technologies:
+During my time at Makers i have had exposure to the following technologies:
+
 - **Languages** : HTLM/CSS, Javascript, Ruby
 - **Frameworks** : React, Node.js, Express, Ruby on Rails, Sinatra
 - **Testing frameworks** : Rspec, Jasmine, Mocha, Jest, Zombie, Capybara, Nightwatch, Cypress
 - **Databases** : PostgreSQL, MongoDB
 - **processes** : Pair programming, OOP, TDD, MVC, Agile development, git/github, command line, webapp deployment/Heroku.
-
-
 
 ## Skills
 
@@ -71,8 +70,6 @@ A 16-week intensive development bootcamp, focusing on :
 - BSc Economics 2:2
 - Course included modules covering economic principles, mathematical modelling, econometric techniques, analytical reasoning, quantitative techniques.
 
-
-
 #### Any other qualifications
 
 ## Experience
@@ -85,9 +82,4 @@ Full details of my professional experience prior to june this year click [here](
 *Operations Analyst*  
 **GlobeOp Financial Services** (08/09/2003 to 20/04/2007)   
 *Operations Analyst*  
-
-
-
-
-
 
