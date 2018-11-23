@@ -68,9 +68,9 @@ A 16-week intensive development bootcamp, focusing on :
 
 #### The University of Manchester (1996 to 1999)
 
-- BSc Economics
+- BSc Economics 2:2
 - Course included modules covering economic principles, mathematical modelling, econometric techniques, analytical reasoning, quantitative techniques.
-- 2:2
+
 
 
 #### Any other qualifications
