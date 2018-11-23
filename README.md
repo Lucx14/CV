@@ -15,25 +15,13 @@ During my time at Makers i have had exposure to the following technologies:
 ## Skills
 
 #### Analytical thinker
-In my role at GAM and Thames River Capital I analysed P&L figures as well as complex trade structures and cash and position reconciliations on a daily basis. I also took on projects to automate data uploads into our systems and was involved in large data migrations between different administrators which involved alot of data analysis and reconciliation.
+I come from an economic science background educationally and in my roles at GAM and Thames River Capital I analysed P&L figures as well as complex trade structures and cash and position reconciliations on a daily basis. I also took on projects to automate data uploads into our systems and was involved in large data migrations between different administrators which involved alot of data analysis and reconciliation.
 #### Communication
-During my time working in hedge fund operations i was a point of contact for many different business elements from a set of investment managers, senior business managers, counterpar banks and administrators, so clear communication was critical.
+During my time working in hedge fund operations I was a main point of contact for many different business entities. On a daily basis i would liase with our investment managers and traders, senior business managers, counterparty banks and administrators, so clear communication was critical.
 #### Good working under pressure
-under pressure and delivering on deadlines...final projects as well as delivering daily in my previous job solving problems dealing quickly with issues
+Im used to working in a pressurised environment and on the Makers course there was an additional level of pressure coming from having to learn new technologies and sometimes new languages at the same time as trying to meet a deadline. This was at times extremely challenging but my previous experience has taught me how to deal with pressure, manage my time and understand when im blocked or need to take some time out to research a problem or ask a collegue for help.
 #### Fast learner
-during the time on the course i frequently encountered new technologies and had to understand them and implement them in short spaces of time, example makersBnB where we decided to tackle learning a new stack in nodejs, express and mongoDB having never worked with them before and in a week, we managed to have a program that was interacting with a database and running an MVC structure with a few routes. In my previous career implementing a new technology or using a new testing or reconciliation tool was always very quick
-#### Adaptable
-can adapt to situations quickly....during the course adapting to working as teams using new processes such as agile which we had not done before
-#### Team player
-To be continued! for each Skill write a small paragraph.
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-- Experience
-- Achievements
-- Evidence
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+During the time on the course I frequently encountered new technologies and had to understand them and implement them in short spaces of time, as an example we made an AirBnb clone in our week 6 challenge. it was our first experience working as a team of 4 using Agile processes and to make things even more challenging we decided to tackle learning a new stack in nodejs, express and mongoDB having never worked with any of them before, we managed to create an MVP that was interacting with a database and running an MVC structure with a few routes.
 
 ## Projects
 
