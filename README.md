@@ -35,7 +35,7 @@ For a complete list, see my [GitHub](https://github.com/Lucx14?tab=repositories)
 |---        |---         |---           |
 | [Bank tech test](https://github.com/Lucx14/bank-tech-test) | A Bank tech test that models deposits and withdrawals from a bank account and runs in the terminal. | Ruby, RSpec, TDD, OOP |
 |[Gilded Rose tech test](https://github.com/Lucx14/GildedRose-Refactoring-Kata)| The Gilded Rose tech test in Javascript. | Javascript, Jasmine, TDD|
-| [Chitter Challenge](https://github.com/Lucx14/chitter-challenge) | A Twitter clone in Ruby using sinatra to create a working MVC framework connected to a database with full CRUD functionality. | Ruby, Sinatra, RSpec, Capybara, TDD, Authentication, MVC |
+| [Chitter Challenge](https://github.com/Lucx14/chitter-challenge) | A Twitter clone in Ruby using sinatra to create a working MVC framework connected to a database with full CRUD functionality. | Ruby, Sinatra, RSpec, Capybara, TDD, Authentication, MVC, postgreSQL |
 | [Trick or eat brains](https://github.com/Lucx14/zombie-infection) | Our final group project at makers, our 4 person team developed a halloween inspired browser game in javascript. | Node.js, React, Jest, Cypress |
 | [MakersBnB](https://github.com/Lucx14/makersBNB) | An AirBnB clone for which we taught ourselves Node, express and MongoDB in a week. | Node.js, Express, MongoDB, Mongoose, Jasmine, Zombie |
 
