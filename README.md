@@ -77,8 +77,9 @@ A 16-week intensive development bootcamp, focusing on :
 
 ## Experience
 
-Full details of my experience click [here](https://www.linkedin.com/in/lucien-najev-a012a876)
+Full details of my professional experience prior to june this year click [here](https://www.linkedin.com/in/lucien-najev-a012a876)
 
+*Summary
 **GAM Investments** (27/08/2013 to 20/05/2018)    
 *Operations Analyst*  
 **Thames River Capital** (23/04/2007 to 24/05/2013)   
