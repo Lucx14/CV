@@ -5,11 +5,11 @@ I am an energetic and ambitious Full Stack Junior Developer, recently graduated 
 Confident in my ability to quickly learn new languages and technologies and very motivated by working in a team on projects where i can use the skills i've learned to solve problems, be creative and be an asset to a team. able not not only use what ive learened over the last few months but also leverage the skills ive used over the past 10 years as a professional in investment operations such as analytical thinking, problem solving, working under pressure.....
 
 have had exposure to following technologies:
-**Languages** - HTLM/CSS, Javascript, Ruby
-**Frameworks** - React, Node.js, Express, Ruby on Rails, Sinatra
-**Testing frameworks** - Rspec, Jasmine, Mocha, Jest, Zombie, Capybara, Nightwatch, Cypress
-**Databases** - PostgreSQL, MongoDB
-**processes** - Pair programming, OOP, TDD, MVC, Agile development, git/github, command line, webapp deployment/Heroku.
+- **Languages** : HTLM/CSS, Javascript, Ruby
+- **Frameworks** : React, Node.js, Express, Ruby on Rails, Sinatra
+- **Testing frameworks** : Rspec, Jasmine, Mocha, Jest, Zombie, Capybara, Nightwatch, Cypress
+- **Databases** : PostgreSQL, MongoDB
+- **processes** : Pair programming, OOP, TDD, MVC, Agile development, git/github, command line, webapp deployment/Heroku.
 
 
 
