@@ -24,8 +24,6 @@ under pressure and delivering on deadlines...final projects as well as deliverin
 during the time on the course i frequently encountered new technologies and had to understand them and implement them in short spaces of time, example makersBnB where we decided to tackle learning a new stack in nodejs, express and mongoDB having never worked with them before and in a week, we managed to have a program that was interacting with a database and running an MVC structure with a few routes. In my previous career implementing a new technology or using a new testing or reconciliation tool was always very quick
 #### Adaptable
 can adapt to situations quickly....during the course adapting to working as teams using new processes such as agile which we had not done before
-#### Enthusiastic
-v enthusiastic to begin a new career which ive decided to do off my own back and finance myself 
 #### Team player
 To be continued! for each Skill write a small paragraph.
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
@@ -69,8 +67,6 @@ A 16-week intensive development bootcamp, focusing on :
 
 - BSc Economics 2:2
 - Course included modules covering economic principles, mathematical modelling, econometric techniques, analytical reasoning, quantitative techniques.
-
-#### Any other qualifications
 
 ## Experience
 
