@@ -54,14 +54,13 @@ For a complete list, see my [GitHub](https://github.com/Lucx14?tab=repositories)
 
 #### Makers Academy (09/07/2018 to 29/10/2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+A 16-week intensive development bootcamp, focusing on :
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, 
+- Agile methodologies
+- Object-oriented design
+- Test driven development and behaviour driven development
+- Pair programming
+- XP values
 
 #### IMC qualification (2011)
 - UK investment profession industry qualification awarded by CFA UK
