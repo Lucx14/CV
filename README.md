@@ -29,6 +29,8 @@ For a complete list, see my [GitHub](https://github.com/Lucx14?tab=repositories)
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
+| [Reminders app](https://inspiring-wing-fb8f5e.netlify.app) | An app based on apples reminders app created with a Rails api on the backend and a react/redux front end. Here I was specifically trying to improve my understanding of redux sagas | React/Redux, Rails/RSpec |
+| [Weather App](https://github.com/Lucx14/weather-app) | A Weather app made in react using hooks and the openweather api, made so that i could gain a better understanding about react hooks. Deployed on heroku [here](https://xenodochial-mccarthy-cc42d0.netlify.app/) | Javascript, React, hooks |
 | [Bank tech test](https://github.com/Lucx14/bank-tech-test) | A Bank tech test that models deposits and withdrawals from a bank account and runs in the terminal. | Ruby, RSpec, TDD, OOP |
 |[Gilded Rose tech test](https://github.com/Lucx14/GildedRose-Refactoring-Kata)| The Gilded Rose tech test in Javascript. | Javascript, Jasmine, TDD|
 | [Chitter Challenge](https://github.com/Lucx14/chitter-challenge) | A Twitter clone in Ruby using sinatra to create a working MVC framework connected to a database with full CRUD functionality. | Ruby, Sinatra, RSpec, Capybara, TDD, Authentication, MVC, postgreSQL |
