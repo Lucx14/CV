@@ -50,7 +50,6 @@ A 16-week intensive development bootcamp, focusing on :
 - Object-oriented design
 - Test driven development and behaviour driven development
 - Pair programming
-- XP values
 
 #### IMC qualification (2011)
 - UK investment profession industry qualification awarded by CFA UK
