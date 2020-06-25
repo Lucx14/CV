@@ -7,7 +7,7 @@ Junior software developer, working at Seedrs. After over 10 years working as a h
 During my time at Seedrs & Makers i have had exposure to the following technologies:
 
 - **Languages** : HTML/CSS, Javascript, Typescript, Ruby
-- **Frameworks** : React (redux/hooks), Node.js, Express, Ruby on Rails, Sinatra
+- **Frameworks** : React (redux/hooks), Node.js, Express, Ruby on Rails, Sinatra, Next.js
 - **Testing frameworks** : Rspec, Jasmine, Mocha, Jest, Zombie, Capybara, Nightwatch, Cypress, Cucumber
 - **Databases** : PostgreSQL, MongoDB, mySql
 - **processes** : Pair programming, OOP, TDD, MVC, Agile, git/github, command line, webapp deployment/Heroku, Api development
