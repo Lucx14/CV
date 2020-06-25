@@ -2,28 +2,26 @@
 
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [LinkedIn](https://www.linkedin.com/in/lucien-najev-a012a876)
 
-I am an energetic and ambitious Full Stack Junior Developer, recently graduated from Makers Academy and looking for a role where I can consolidate and extend the skills i've learned on the course. After over 10 years working as a hedge fund analyst im looking for a fresh challenge and a career change. After some thought and having always been interested in code and technology I decided to enroll at Makers Academy, a developer bootcamp, where for the last few months I have learned fundamentals of software development by building projects in teams, in pairs and independently, using Agile processes, Test driven development and object oriented programming.
+Junior software developer, working at Seedrs. After over 10 years working as a hedge fund analyst I decided to enroll at Makers Academy, a developer bootcamp, where I learned fundamentals of software development, Test driven development and object oriented programming. After finishing the course I started work at Seeds as a software developer where I was able to develop my skills working in Ruby on Rails and React.js. Confident in my ability to quickly learn new languages and technologies and I am motivated by working in a supportive team with a collaborative attitude on projects where I can use the skills i've learned to solve problems, be creative and be an asset to a team.
 
-I feel confident in my ability to quickly learn new languages and technologies and I am motivated by working in a supportive team with a collaborative attitude on projects where I can use the skills i've learned to solve problems, be creative and be an asset to a team. At the same time I feel I am also capable of working independently towards deadlines, organising my own time and I can leverage the skills ive used over the past 10 years as a professional in investment operations such as analytical thinking, problem solving, working under pressure, good teamwork and good communication.
+During my time at Seedrs & Makers i have had exposure to the following technologies:
 
-During my time at Makers i have had exposure to the following technologies:
-
-- **Languages** : HTLM/CSS, Javascript, Ruby
-- **Frameworks** : React, Node.js, Express, Ruby on Rails, Sinatra
-- **Testing frameworks** : Rspec, Jasmine, Mocha, Jest, Zombie, Capybara, Nightwatch, Cypress
-- **Databases** : PostgreSQL, MongoDB
-- **processes** : Pair programming, OOP, TDD, MVC, Agile development, git/github, command line, webapp deployment/Heroku.
+- **Languages** : HTML/CSS, Javascript, Typescript, Ruby
+- **Frameworks** : React (redux/hooks), Node.js, Express, Ruby on Rails, Sinatra
+- **Testing frameworks** : Rspec, Jasmine, Mocha, Jest, Zombie, Capybara, Nightwatch, Cypress, Cucumber
+- **Databases** : PostgreSQL, MongoDB, mySql
+- **processes** : Pair programming, OOP, TDD, MVC, Agile, git/github, command line, webapp deployment/Heroku, Api development
 
 ## Skills
 
 #### Analytical thinker
 I come from an economic science background educationally and in my roles at GAM and Thames River Capital I analysed P&L figures as well as complex trade structures and cash and position reconciliations on a daily basis. I also took on projects to automate data uploads into our systems and was involved in large data migrations between different administrators which involved alot of data analysis and reconciliation.
 #### Communication
-During my time working in hedge fund operations I was a main point of contact for many different business entities. On a daily basis i would liase with our investment managers and traders, senior business managers, counterparty banks and administrators, so clear communication was critical.
+During my time working in hedge fund operations I was a main point of contact for many different business entities. On a daily basis i would liase with our investment managers and traders, senior business managers, counterparty banks and administrators, so clear communication was critical and has helped me in my most recent role.
 #### Good working under pressure
 Im used to working in a pressurised environment and on the Makers course there was an additional level of pressure coming from having to learn new technologies and sometimes new languages at the same time as trying to meet a deadline. This was at times extremely challenging but my previous experience has taught me how to deal with pressure, manage my time and understand when im blocked or need to take some time out to research a problem or ask a collegue for help.
 #### Fast learner
-During the time on the course I frequently encountered new technologies and had to understand them and implement them in short spaces of time, as an example we made an AirBnb clone in our week 6 challenge. it was our first experience working as a team of 4 using Agile processes and to make things even more challenging we decided to tackle learning a new stack in nodejs, express and mongoDB having never worked with any of them before, we managed to create an MVP that was interacting with a database and running an MVC structure with a few routes.
+During the time on the course I frequently encountered new technologies and had to understand them and implement them in short spaces of time, and in my role at Seedrs, i have taken my foundations and build on them, learning on both the front end and backend platforms.
 
 ## Projects
 
