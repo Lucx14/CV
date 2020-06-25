@@ -29,12 +29,15 @@ For a complete list, see my [GitHub](https://github.com/Lucx14?tab=repositories)
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
+| [Instagram clone](https://placeholder.com) | An app based on instagram created with a Rails api on the backend and a react/redux front end. I wanted to use this project to help me understand more about working with images in the backend api using active storage with rails, and also on the front end learning to submit images to the api using form data. It is very much a bare mvp with some basic functionality | React/Redux, Rails/RSpec |
 | [Reminders app](https://inspiring-wing-fb8f5e.netlify.app) | An app based on apples reminders app created with a Rails api on the backend and a react/redux front end. Here I was specifically trying to improve my understanding of redux sagas | React/Redux, Rails/RSpec |
 | [Weather App](https://github.com/Lucx14/weather-app) | A Weather app made in react using hooks and the openweather api, made so that i could gain a better understanding about react hooks. Deployed on heroku [here](https://xenodochial-mccarthy-cc42d0.netlify.app/) | Javascript, React, hooks |
+| [Ruby Exercism solutions](https://github.com/Lucx14/Exercism-Ruby) | My solutions to some exercises on Exercism for Ruby. I try to regularly challenge myself by doing these exercises. | Ruby |
+| [Javascript Exercism solutions](https://github.com/Lucx14/Exercism-Javascript) | My solutions to some exercises on Exercism for JS. I try to regularly challenge myself by doing these exercises. | Javascript |
 | [Bank tech test](https://github.com/Lucx14/bank-tech-test) | A Bank tech test that models deposits and withdrawals from a bank account and runs in the terminal. | Ruby, RSpec, TDD, OOP |
 |[Gilded Rose tech test](https://github.com/Lucx14/GildedRose-Refactoring-Kata)| The Gilded Rose tech test in Javascript. | Javascript, Jasmine, TDD|
 | [Chitter Challenge](https://github.com/Lucx14/chitter-challenge) | A Twitter clone in Ruby using sinatra to create a working MVC framework connected to a database with full CRUD functionality. | Ruby, Sinatra, RSpec, Capybara, TDD, Authentication, MVC, postgreSQL |
-| [Trick or eat brains](https://github.com/Lucx14/zombie-infection) | Our final group project at makers, our 4 person team developed a halloween inspired browser game in javascript. | Node.js, React, Jest, Cypress |
+| [Trick or eat brains](https://github.com/Lucx14/zombie-infection) | Our final group project at makers, our 4 person team developed a halloween inspired browser game in javascript. Playable [here](https://trick-or-eat-brains.herokuapp.com/) | Node.js, React, Jest, Cypress |
 | [MakersBnB](https://github.com/Lucx14/makersBNB) | An AirBnB clone for which we taught ourselves Node, express and MongoDB in a week. | Node.js, Express, MongoDB, Mongoose, Jasmine, Zombie |
 
 ## Education
